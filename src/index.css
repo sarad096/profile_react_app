@@ -130,7 +130,9 @@ a.sitelink{
   color: white;
 }
 div#root{
-  background-color: #434343;
+  background-color: black;
+  height: 100%;
   
 }
+
 
