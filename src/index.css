@@ -1,0 +1,136 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:wght@900&display=swap');
+body {
+  margin: 0;
+  padding: o;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.card{
+  width: 18rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+margin: 0px auto auto auto;
+
+  
+  color: white;
+}
+
+img.card-img-top{
+ 
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.profilename{
+  line-height: 15px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.skill{
+  text-align: center;
+}
+
+.site{
+  text-align: center;
+}
+
+.btncontainer{
+  display: flex;
+}
+
+button.btn-custom{
+  background-color: white;
+  width: 100px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  margin-left: 15px;
+  font-size: 12px;
+}
+
+button.btn-custom:hover{
+  background-color: #2C5364;
+  color: white;
+}
+
+button.btn-primary{
+  width: 100px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  margin-left: 15px;
+  font-size: 12px;
+}
+
+span.btntxt{
+  padding-left: 5px;
+}
+.Aboutcont{
+position: relative;
+top: -5px;
+}
+h5.abouth5{
+  margin-left:10px ;
+}
+p.aboutdesc{
+  margin-left: 10px;
+ 
+  color: #d0dee4;
+}
+.interestscont{
+  position: relative;
+  top: -10px;
+}
+
+h5.interestsh5{
+  margin-left: 10px;
+}
+p.interestsdesc{
+  margin-left: 10px;
+  color: #d0dee4;
+}
+div.Footercont{
+  
+  position: relative;
+  top: -15px;
+}
+.btn-sq-responsive{
+margin-right: 20px;
+
+}
+.fbbtn{
+  margin-left: 20px;
+}
+.footbuttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+a.sitelink{
+  text-decoration: none;
+  color: white;
+}
+div#root{
+  background-color: #434343;
+  
+}
+
