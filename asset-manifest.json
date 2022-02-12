@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/profile_react_app/static/css/main.23b139f2.css",
+    "main.js": "/profile_react_app/static/js/main.0456d419.js",
+    "index.html": "/profile_react_app/index.html",
+    "main.23b139f2.css.map": "/profile_react_app/static/css/main.23b139f2.css.map",
+    "main.0456d419.js.map": "/profile_react_app/static/js/main.0456d419.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b139f2.css",
+    "static/js/main.0456d419.js"
+  ]
+}
